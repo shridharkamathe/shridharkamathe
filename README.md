@@ -2,8 +2,6 @@
 <h3 align="center">Thorough and meticulous Data Analyst passionate about helping businesses succeed. Former business owner and recipient of an Engineering Degree. Possessing strong technical skills rooted in substantial training as an engineer. On the journey to become the best in Data Analytics.</h3>
 <img align="right" alt="Coding" width="320" src="https://github.com/shridharkamathe/Hotel-Data-Analysis/assets/124047047/8f85f72c-f67d-4f26-9750-61061e49fa12](https://indoanalytica.com/data-science/">
 
-- 🌱 I’m currently learning **R**
-
 - 👨‍💻 All of my projects are available at [https://github.com/shridharkamathe?tab=repositories](https://github.com/shridharkamathe?tab=repositories)
 
 - 📫 How to reach me **kamatheshridhar@gmail.com**
